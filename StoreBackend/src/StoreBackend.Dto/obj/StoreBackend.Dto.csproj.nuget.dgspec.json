@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {}
+    "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
+    "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
         "projectName": "StoreBackend.Dto",
-        "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
+        "projectPath": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
         "packagesPath": "C:\\Users\\daniu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\obj\\",
+        "outputPath": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniu\\AppData\\Roaming\\NuGet\\NuGet.Config"

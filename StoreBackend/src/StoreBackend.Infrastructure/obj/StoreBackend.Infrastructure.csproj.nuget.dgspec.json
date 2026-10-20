@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj": {}
+    "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj": {
+    "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj",
         "projectName": "StoreBackend.Infrastructure",
-        "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\daniu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,20 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
