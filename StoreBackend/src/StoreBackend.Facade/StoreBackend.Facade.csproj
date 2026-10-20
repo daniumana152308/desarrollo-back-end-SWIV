@@ -1,5 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\StoreBackend.Domain\StoreBackend.Domain.csproj" />
+    <ProjectReference Include="..\StoreBackend.Dto\StoreBackend.Dto.csproj" />
+    <ProjectReference Include="..\StoreBackend.DomainService\StoreBackend.DomainService.csproj" />
+    <ProjectReference Include="..\StoreBackend.Infrastructure\StoreBackend.Infrastructure.csproj" />
+    <ProjectReference Include="..\StoreBackend.Exceptions\StoreBackend.Exceptions.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

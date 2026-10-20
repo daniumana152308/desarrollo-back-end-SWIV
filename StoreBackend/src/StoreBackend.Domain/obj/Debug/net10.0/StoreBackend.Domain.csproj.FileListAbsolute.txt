@@ -1,0 +1,12 @@
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.AssemblyInfo.cs
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.sourcelink.json
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\bin\Debug\net10.0\StoreBackend.Domain.deps.json
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\bin\Debug\net10.0\StoreBackend.Domain.dll
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\bin\Debug\net10.0\StoreBackend.Domain.pdb
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.dll
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\refint\StoreBackend.Domain.dll
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\StoreBackend.Domain.pdb
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Domain\obj\Debug\net10.0\ref\StoreBackend.Domain.dll

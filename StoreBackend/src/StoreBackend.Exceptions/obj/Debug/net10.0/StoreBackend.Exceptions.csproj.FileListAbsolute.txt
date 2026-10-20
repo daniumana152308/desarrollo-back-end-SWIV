@@ -1,0 +1,12 @@
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\bin\Debug\net10.0\StoreBackend.Exceptions.deps.json
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\bin\Debug\net10.0\StoreBackend.Exceptions.dll
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\bin\Debug\net10.0\StoreBackend.Exceptions.pdb
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.AssemblyInfoInputs.cache
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.AssemblyInfo.cs
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.sourcelink.json
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.dll
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\refint\StoreBackend.Exceptions.dll
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.pdb
+C:\Users\daniu\Desktop\Universidad\Segundo año\desarrollo-back-end-SWIV\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\ref\StoreBackend.Exceptions.dll
