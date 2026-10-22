@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {}
+    "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
+    "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
         "projectName": "StoreBackend.Domain",
-        "projectPath": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
-        "packagesPath": "C:\\Users\\daniu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniu\\Desktop\\Universidad\\Segundo año\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
+        "packagesPath": "C:\\Users\\Profesores\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daniu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Profesores\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
