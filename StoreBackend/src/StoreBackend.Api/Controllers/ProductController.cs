@@ -25,10 +25,47 @@ namespace StoreBackend.Api.Controllers
         {
             
             var product = await productFacade.GetAllAsync();
-            var models = ProductMapper.ToModel(products);
+            var models = ProductMapper.ToModel(product);
             return Ok(models);
         }
 
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetProductById(Guid id)
+        {
+            try
+            {
+                var product = await productFacade.GetByIdAsync(id);
+                var model = ProductMapper.ToModel(product);
+                return Ok(model);
+            }
+            catch (ResourceNotFoundException)
+            {
+                return NotFound();
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddProduct([FromBody] CreateProductRequestModel product)
+        {
+            var dto = ProductMapper.ToDto(product);
+            var addedProduct = await productFacade.AddAsync(dto);
+            var model = ProductMapper.ToModel(addedProduct);
+            return CreatedAtAction(nameof(GetProductById), new { id = model.ProductResourceId }, model);
+        }
+
+        [HttpDelete("{id}")]
+public async Task<IActionResult> DeleteProduct(Guid id)
+{
+    try
+    {
+        await productFacade.DeleteAsync(id);
+        return Ok();
+    }
+    catch (ResourceNotFoundException)
+    {
+        return NotFound();
+    }
+}
 
 
     }

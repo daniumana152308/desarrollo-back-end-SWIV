@@ -6,7 +6,7 @@ namespace StoreBackend.Api.Models.Requests;
 public class CreateProductRequestModel
 {
     [Required]
-    public Guid? ProductResorceId { get; set; }
+    public Guid? ProductResourceId { get; set; }
 
     [Required]
     [MaxLength(50)]

@@ -4,7 +4,7 @@ namespace StoreBackend.Api.Models.Responses;
 
 public class ProductResponseModel{
     
-    public Guid ProductResorceId { get; set; }
+    public Guid ProductResourceId { get; set; }
 
     public string? Name { get; set;}
 
