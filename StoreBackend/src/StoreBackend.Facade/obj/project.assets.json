@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Azure.Core/1.47.1": {
@@ -3755,19 +3755,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Profesores\\.nuget\\packages\\": {}
+    "C:\\Users\\daniu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
+      "projectUniqueName": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
       "projectName": "StoreBackend.Facade",
-      "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
-      "packagesPath": "C:\\Users\\Profesores\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Facade\\obj\\",
+      "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
+      "packagesPath": "C:\\Users\\daniu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Facade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Profesores\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\daniu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -3777,22 +3777,23 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj": {
-              "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj"
+            "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj": {
+              "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj"
             },
-            "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
-              "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj"
+            "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
+              "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj"
             },
-            "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
-              "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
+            "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
+              "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
             },
-            "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj": {
-              "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj"
+            "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj": {
+              "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj"
             },
-            "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Profesores\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj"
+            "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\daniu\\desarrollo-back-end-SWIV\\StoreBackend\\src\\StoreBackend.Infrastructure\\StoreBackend.Infrastructure.csproj"
             }
           }
         }
@@ -3807,10 +3808,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -3828,7 +3830,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
