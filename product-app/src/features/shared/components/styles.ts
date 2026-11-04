@@ -1,0 +1,4 @@
+export const primaryButton = "inline-flex min-h-11 items-center justify-center gap-2 rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm shadow-blue-600/15 transition-colors hover:bg-blue-700 disabled:cursor-wait disabled:opacity-60";
+export const secondaryButton = "inline-flex min-h-11 items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white px-5 py-2.5 text-sm font-semibold text-slate-600 transition-colors hover:border-slate-300 hover:bg-slate-50";
+export const backLink = "inline-flex min-h-10 items-center gap-2 text-sm font-medium text-slate-500 transition-colors hover:text-blue-600";
+export const inputStyles = "block min-h-12 w-full rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-900 transition-colors placeholder:text-slate-400 focus:border-blue-500 focus:outline-none focus:ring-4 focus:ring-blue-500/10 aria-invalid:border-red-400 aria-invalid:focus:ring-red-500/10";

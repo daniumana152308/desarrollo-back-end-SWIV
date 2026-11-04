@@ -1,2 +1,11 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StoreBackend.Api/StoreBackend.Api.csproj" />
+    <Project Path="src/StoreBackend.Domain/StoreBackend.Domain.csproj" />
+    <Project Path="src/StoreBackend.DomainService/StoreBackend.DomainService.csproj" />
+    <Project Path="src/StoreBackend.Dto/StoreBackend.Dto.csproj" />
+    <Project Path="src/StoreBackend.Exceptions/StoreBackend.Exceptions.csproj" />
+    <Project Path="src/StoreBackend.Facade/StoreBackend.Facade.csproj" />
+    <Project Path="src/StoreBackend.Infrastructure/StoreBackend.Infrastructure.csproj" />
+  </Folder>
 </Solution>

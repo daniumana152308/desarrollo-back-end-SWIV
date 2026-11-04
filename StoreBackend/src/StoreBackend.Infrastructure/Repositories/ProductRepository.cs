@@ -16,7 +16,7 @@ public class ProductRepository : IProductRepository
 
     public async Task<List<Product>> GetAllAsync()
     {
-        return await _context.Products.ToListAsync();
+        return await _context.Products.AsNoTracking().OrderBy(p => p.ProductId).ToListAsync();
     }
 
     public async Task<Product?> GetByIdAsync(Guid productId)

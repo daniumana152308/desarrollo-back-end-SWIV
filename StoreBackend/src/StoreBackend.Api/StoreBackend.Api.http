@@ -1,6 +1,23 @@
-@StoreBackend.Api_HostAddress = http://localhost:5197
+@StoreBackend.Api_HostAddress = http://localhost:5001
 
-GET {{StoreBackend.Api_HostAddress}}/weatherforecast/
+GET {{StoreBackend.Api_HostAddress}}/api/products
 Accept: application/json
 
 ###
+
+POST {{StoreBackend.Api_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  "name": "Producto de ejemplo"
+}
+
+###
+# Replace with the productResourceId returned by POST.
+@productId = 00000000-0000-0000-0000-000000000000
+
+GET {{StoreBackend.Api_HostAddress}}/api/products/{{productId}}
+
+###
+
+DELETE {{StoreBackend.Api_HostAddress}}/api/products/{{productId}}

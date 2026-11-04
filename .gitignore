@@ -1,0 +1,19 @@
+# .NET build outputs and IDE state
+**/bin/
+**/obj/
+.vs/
+**/*.user
+**/*.suo
+
+# Frontend outputs, dependencies and test artifacts
+**/node_modules/
+**/dist/
+**/playwright-report/
+**/test-results/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+*.log

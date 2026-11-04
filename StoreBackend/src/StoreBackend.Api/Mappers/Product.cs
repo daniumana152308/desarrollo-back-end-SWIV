@@ -11,7 +11,7 @@ namespace StoreBackend.Api.Mappers
         {
             return new ProductDto
             {
-                ProductResourceId = model.ProductResourceId!.Value,
+                ProductResourceId = model.ProductResourceId ?? Guid.NewGuid(),
                 Name = model.Name
             };
         }
